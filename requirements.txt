@@ -1,0 +1,8 @@
+flask
+flask-socketio
+torch
+scikit-learn
+pandas
+numpy
+geopy
+joblib
